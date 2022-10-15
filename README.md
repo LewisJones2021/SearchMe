@@ -1,4 +1,4 @@
-# SearchMe!
+# WikiSearch!
 
 Use the Wikipedia API to display results related to the search.
 
